@@ -1,1 +1,1 @@
-# stydu
+# Study
